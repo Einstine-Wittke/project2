@@ -1,0 +1,112 @@
+.container {
+  display: flex;
+  margin-top: 227px;
+  padding-left: 526px;
+}
+
+.task {
+  font-size: 97px;
+  font-weight: 800;
+  font-family: "Raleway", sans-serif;
+}
+
+.list {
+  font-size: 101px;
+  margin-left: 18px;
+  color: gray;
+  font-family: "Roboto", sans-serif;
+  margin-top: -4px;
+  letter-spacing: -2px;
+}
+
+.icon {
+  margin-left: 398px;
+  margin-top: 25px;
+}
+
+.add {
+  font-size: 47px;
+  margin-left: 18px;
+  color: gray;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1px;
+  font-weight: 800;
+}
+.container1 {
+  /* border: 2px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box {
+  border: 2px solid orangered;
+  border-radius: 10px;
+  padding: 23px;
+  margin: 77px;
+  height: 430px;
+  width: 312px;
+  margin-left: 28px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 11px 11px 21px -1px grey;
+  padding-bottom: 68px;
+  padding-right: 0px;
+}
+.box h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: red;
+  font-size: 34px;
+  font-weight: 800;
+  margin-left: 11px;
+  letter-spacing: -1px;
+}
+
+.box p {
+  font-family: "Roboto", sans-serif;
+  color: red;
+  font-size: 34px;
+  letter-spacing: -1px;
+  margin: 0px;
+  font-size: 41px;
+  font-weight: 800;
+}
+.box input {
+  height: 26px;
+  width: 29px;
+  margin-left: -86px;
+  font-size: 41px;
+  font-weight: 800;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+.box1 a {
+  font-family: "Roboto", sans-serif;
+  color: red;
+  font-size: 34px;
+  letter-spacing: -1px;
+  text-decoration: none;
+  font-size: 41px;
+  font-weight: 800;
+}
+.container a {
+  text-decoration: none;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+.box a {
+  border-bottom: 2px solid black;
+  padding-bottom: 31px;
+  font-size: 41px;
+  font-weight: 800;
+  font-family: "Roboto", sans-serif;
+}
+.box p {
+  border-bottom: 2px solid black;
+  padding-bottom: 31px;
+  margin-left: 13%;
+  text-align: left;
+  font-size: 41px;
+}
+.box label {
+  font-size: 34px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
